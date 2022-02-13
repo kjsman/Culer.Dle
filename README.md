@@ -1,6 +1,4 @@
-# Culer.Dle
-
-`Cube + Color = Culer`
+# Cube.Dle
 
 큐브를 굴려서 모든 면을 색칠하면 되는 게임
 
